@@ -1,0 +1,5 @@
+'Crime ID-Location-Items taken-Place attacked-wepaons used-criminal traits'.
+'1-upper east side-1 pound of gold-bank-guns-wear red hoodies'.
+'2-lower east side-fruits,vegetables,money-market-knives-speak italian'.
+'3-central-pharmaceuticals-clinic-grenades-unkown'.
+'4-upper east side-dog-dog shelter-grenades-owns bicycles'.

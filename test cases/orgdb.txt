@@ -1,0 +1,6 @@
+:- dynamic organization/5.
+
+organization("Aranelli", "extortion,gold,money", "central,lower east side", "unkown", "owns bicycles").
+organization("Piazza", "bonds,prostitution,dog", "lower east side", "guns,knives", "speak italian").
+organization("Teriaka", "diamonds,gonds,gold", "upper east side", "guns,knives", "wear red hoodies").
+

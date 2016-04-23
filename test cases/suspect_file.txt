@@ -1,0 +1,8 @@
+'crime ID-Suspect Name-Traits'.
+'1-jackson-owns car, owns bicycle'.
+'1-rodrigez-wear red hoodies'.
+'1-person-none'.
+'3-bimma-owns bicycle'.
+'3-jonas Jan-None'.
+'4-jacksonM-owns bicycle'.
+'4-johnnyB-none'.

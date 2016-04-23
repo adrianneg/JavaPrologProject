@@ -1,0 +1,7 @@
+:- dynamic crime/6.
+
+crime("4", "upper east side", "dog", "dog shelter", "grenades", "owns bicycles").
+crime("3", "central", "pharmaceuticals", "clinic", "grenades", "unkown").
+crime("2", "lower east side", "fruits,vegetables,money", "market", "knives", "speak italian").
+crime("1", "upper east side", "1 pound of gold", "bank", "guns", "wear red hoodies").
+

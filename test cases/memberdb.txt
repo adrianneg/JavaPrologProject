@@ -1,0 +1,7 @@
+:- dynamic belong_to/2.
+
+belong_to("jj", "Teriaka").
+belong_to("jacksonM", "Aranelli").
+belong_to("johnnyB", "Piazza").
+belong_to("john", "Teriaka").
+

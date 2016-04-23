@@ -1,0 +1,10 @@
+:- dynamic suspect/3.
+
+suspect("4", "johnnyB", "none").
+suspect("4", "jacksonM", "owns bicycle").
+suspect("3", "jonas Jan", "None").
+suspect("3", "bimma", "owns bicycle").
+suspect("1", "person", "none").
+suspect("1", "rodrigez", "wear red hoodies").
+suspect("1", "jackson", "owns car, owns bicycle").
+

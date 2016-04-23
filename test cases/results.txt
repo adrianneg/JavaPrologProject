@@ -1,0 +1,61 @@
+Crime 1
+	Suspected Organization: Teriaka, Piazza
+	Members of Organizations
+		Teriaka: john, jj, rodrigez
+		Piazza: johnnyB
+		Aranelli: jacksonM, jackson
+	Operating Location of Organization
+		Teriaka: upper east side
+		Piazza: lower east side
+		Aranelli: central, lower east side
+	Weapons used by Organizations
+		Teriaka: guns, knives
+		Piazza: guns, knives
+		Aranelli: unknown
+	Suspects: rodrigez 
+Crime 2
+	Suspected Organizations: Piazza, Aranelli
+	Members of Organizations
+		Teriaka: john, jj, rodrigez
+		Piazza: johnnyB
+		Aranelli: jacksonM, jackson
+	Operating Location of Organizations
+		Teriaka: upper east side
+		Piazza: lower east side
+		Aranelli: central, lower east side
+	Weapons used by Organizations
+		Teriaka: guns, knives
+		Piazza: guns, knives
+		Aranelli: unknown
+	Suspects: No Suspects Found
+Crime 3
+	Suspected Organizations: Aranelli
+	Members of Organizations
+		Teriaka: john, jj, rodrigez
+		Piazza: johnnyB
+		Aranelli: JacksonM, jackson, bimma
+	Operating Location of Organizations
+		Teriaka: upper east side
+		Piazza: lower east side
+		Aranelli: central, lower east side
+	Weapons used by Organizations
+		Teriaka: guns, knives
+		Piazza: guns, knives
+		Aranelli: grenades
+	Suspects: bimma
+
+Crime 4
+	Suspected Organizations: Aranelli, Piazza, Teriaka
+	Members of Organizations
+		Teriaka: john, jj, rodrigez
+		Piazza: johnnyB
+		Aranelli: jacksonM, jackson, bimma
+	Operating Location of Organizations
+		Teriaka: upper east side
+		Piazza: lower east side
+		Aranelli: central, lower east side, upper east side
+	Weapons used by Organizations
+		Teriaka: guns, knives
+		Piazza: guns, knives
+		Aranelli: grenades
+	Suspects: jacksonM, johnnyB
